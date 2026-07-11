@@ -65,8 +65,8 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 
 | Name | Role | Responsibility |
 |:---:|:---:|:---:|
-| **Qero** | CEO & Founder | Mechatronics engineer, Full-Stack developer, lead representative |
-| **Abdelaziz (Abaz)** | CFO | Pricing and financial accounts specialist |
+| **Kerollos Hany** | CEO & Founder | Full-Stack developer, lead representative |
+| **Ahmed Abdelaziz (Abaz)** | CFO | Pricing and financial accounts specialist |
 | **Kero Amir** | CRM Manager | Client follow-up and sales management |
 
 ---
@@ -87,24 +87,6 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 | **Kofta Rica** | Restaurant | System + pricing + menu | Aswan — next to Tulip |
 | **CPC** | Gas Station | Integrated accounting system | Aswan — El Ta'meen |
 | **Way 2 Go** | Café | System + pricing + menu + regular website | El Lewaa Dr. Tarek Gomaa |
-
----
-
-## 🔄 Clients in Progress
-
-| Client | Sector | Next Step | Priority |
-|---|---|---|:---:|
-| Al-Eissa Establishment | Business | Define system requirements | 🔴 High |
-| Ma Teegy Café | Café | Finalize pricing | 🔴 High |
-| The Healthy Food | Healthy Restaurant | Determine suitable system type | 🔴 High |
-| Bats | Restaurant | Submit price quote | 🔴 High |
-| Sakon | Café | Re-establish contact | 🟢 Low |
-
----
-
-## 🎭 The Mascot
-
-A 3D character embodying the brand's spirit — an Egyptian cyborg with a robotic arm, representing tech entrepreneurship.
 
 ---
 

@@ -1,8 +1,7 @@
-
 # Fateen Digital Solutions | Digital Agency 🚀
 Smart Business Solutions | Digitalizing your vision 👨🏻‍💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Cairo&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Fateen+OS+%7C+Offline-First+POS+System;%D8%A3%D9%86%D8%B8%D9%85%D8%A9+%D9%83%D8%A7%D8%B4%D9%8A%D8%B1+%D8%B0%D9%83%D9%8A%D8%A9;Web+%26+Brand+Identity+Design;%D8%AA%D8%B5%D9%85%D9%8A%D9%85+%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1+%D8%A8%D9%87%D9%88%D9%8A%D8%A9+Dark+Elegant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cairo&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Fateen+OS+%7C+Offline-First+POS+System;Smart+POS+Systems;Web+%26+Brand+Identity+Design;Dark+Elegant+Design+%26+Development" alt="Typing SVG" />
 
 <p>
   <a href="https://fateen1.me"><img src="https://img.shields.io/badge/🌐_WEBSITE-1a1a2e?style=for-the-badge&logoColor=white" /></a>
@@ -64,11 +63,11 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 
 ## 👥 · Team
 
-| الاسم / Name | المنصب / Role | الدور / Responsibility |
+| Name | Role | Responsibility |
 |:---:|:---:|:---:|
-| **قعرو** | CEO & Founder | مهندس ميكاترونكس، مطور Full-Stack، المندوب الرئيسي |
-| **عبد العزيز (عبعظ)** | CFO | متخصص التسعير والحسابات المالية |
-| **كيرو أمير** | CRM Manager | متابعة العملاء وإدارة المبيعات |
+| **Qero** | CEO & Founder | Mechatronics engineer, Full-Stack developer, lead representative |
+| **Abdelaziz (Abaz)** | CFO | Pricing and financial accounts specialist |
+| **Kero Amir** | CRM Manager | Client follow-up and sales management |
 
 ---
 
@@ -76,40 +75,39 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 
 <div align="center">
 
-**★★★★★ معدل رضا 100% · 100% Satisfaction Rate ★★★★★**
+**★★★★★ 100% Satisfaction Rate ★★★★★**
 
 </div>
 
-| العميل / Client | القطاع / Sector | الخدمة / Service | الموقع / Location |
+| Client | Sector | Service | Location |
 |---|---|---|---|
-| **كريبتون** | مطعم / Restaurant | سيستم + تسعير + منيو | أسوان — بجوار توليب |
-| **سماش زون** | مطعم / Restaurant | سيستم + تسعير + منيو | أسوان — بجوار توليب |
-| **ع السيخ** | مطعم / Restaurant | سيستم + تسعير + منيو | أسوان — بجوار توليب |
-| **كوفتا ريكا** | مطعم / Restaurant | سيستم + تسعير + منيو | أسوان — بجوار توليب |
-| **بنزينة التعاون** | محطة وقود / Gas Station | سيستم حسابات متكامل | أسوان — التأمين |
+| **Krypton** | Restaurant | System + pricing + menu | Aswan — next to Tulip |
+| **Smash Zone** | Restaurant | System + pricing + menu | Aswan — next to Tulip |
+| **3al Sikh** | Restaurant | System + pricing + menu | Aswan — next to Tulip |
+| **Kofta Rica** | Restaurant | System + pricing + menu | Aswan — next to Tulip |
+| **Benzina El Ta'awon** | Gas Station | Integrated accounting system | Aswan — El Ta'meen |
 
 ---
 
-## 🔄 العملاء قيد المتابعة · Clients in Progress
+## 🔄 Clients in Progress
 
-| العميل | القطاع | الإجراء التالي | الأولوية |
+| Client | Sector | Next Step | Priority |
 |---|---|---|:---:|
-| مؤسسة العيسي | أعمال | تحديد متطلبات النظام | 🔴 عالية |
-| ما تيجي كافيه | كافيه | تحديد السعر النهائي | 🔴 عالية |
-| الهيلثي فود | مطعم صحي | تحديد نوع النظام المناسب | 🔴 عالية |
-| باتس | مطعم | تقديم عرض سعر | 🔴 عالية |
-| سكون | كافيه | إعادة التواصل | 🟢 منخفضة |
+| Al-Eissa Establishment | Business | Define system requirements | 🔴 High |
+| Ma Teegy Café | Café | Finalize pricing | 🔴 High |
+| The Healthy Food | Healthy Restaurant | Determine suitable system type | 🔴 High |
+| Bats | Restaurant | Submit price quote | 🔴 High |
+| Sakon | Café | Re-establish contact | 🟢 Low |
 
 ---
 
-## 🎭 شخصية فطين · The Mascot
+## 🎭 The Mascot
 
-شخصية 3D تجسّد روح البراند — **شاب مصري سايبورج** بذراع آلي يعبّر عن ريادة الأعمال التقنية.
-*A 3D character embodying the brand's spirit — an Egyptian cyborg with a robotic arm, representing tech entrepreneurship.*
+A 3D character embodying the brand's spirit — an Egyptian cyborg with a robotic arm, representing tech entrepreneurship.
 
 ---
 
-## 🛠️ التقنيات وبيئة العمل · Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -123,7 +121,7 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 
 ---
 
-## 📊 إحصائيات الأداء · GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FATEEN-POS&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe" />
@@ -135,12 +133,12 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 
 <div align="center">
 
-### 📩 خليك على تواصل · Let's Connect
+### 📩 Let's Connect
 
 <a href="https://fateen1.me"><img src="https://img.shields.io/badge/Website-fateen1.me-00f2fe?style=for-the-badge" /></a>
 <a href="mailto:keromenaolm@gmail.com"><img src="https://img.shields.io/badge/Email-keromenaolm%40gmail.com-1a1a2e?style=for-the-badge" /></a>
 
-<sub>© 2025 Fateen Digital Solutions · أسوان، مصر · Aswan, Egypt</sub>
+<sub>© 2025 Fateen Digital Solutions · Aswan, Egypt</sub>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
 

@@ -7,36 +7,20 @@ Smart Business Solutions | Digitalizing your vision 👨🏻‍💻
 <p>
   <a href="https://fateen1.me"><img src="https://img.shields.io/badge/🌐_WEBSITE-1a1a2e?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:keromenaolm@gmail.com"><img src="https://img.shields.io/badge/📩_CALL_US-1a1a2e?style=for-the-badge&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/📍_Aswan,_Egypt-black?style=flat-square" />
 </p>
-
-
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
 
-## 🏢 عن الوكالة · About Us
+## 🏢 · About Us
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🇪🇬 بالعربي
-
-**Fateen Digital Solutions** وكالة رقمية متخصصة مقرها أسوان، مصر. نجمع بين هندسة البرمجيات وتصميم تجربة المستخدم لتقديم أنظمة ترفع كفاءة العمل وتعكس هوية المكان.
-
-> *"نبني الأدوات التقنية التي تحتاجها مؤسستك — من أنظمة الكاشير الذكية إلى المواقع الإلكترونية والهويات البصرية المميزة"*
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 English
 
 **Fateen Digital Solutions** is a digital agency based in Aswan, Egypt. We combine software engineering with UX design to build systems that boost efficiency and reflect each business's identity.
 
@@ -48,26 +32,10 @@ Smart Business Solutions | Digitalizing your vision 👨🏻‍💻
 
 ---
 
-## ⚙️ الخدمات · Services
+## ⚙️· Services
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🖥️ Fateen OS — أنظمة الكاشير الذكية
-المنتج الرئيسي للشركة، نظام تشغيل وإدارة يعمل بمبدأ **Offline-First**:
-- إدارة المبيعات والمنيو والتسعير
-- واجهة **Dark Elegant** فاخرة
-- يعمل بدون اتصال دائم بالإنترنت
-- مبني بـ Electron.js + SQLite
-
-### 🌐 تطوير المواقع الإلكترونية
-مواقع احترافية تعكس هوية العميل وتخدم أهدافه.
-
-### 🎨 الهوية البصرية
-أسلوب **Dark Elegant**: خلفيات داكنة عميقة مع إضاءات فيروزية `#00f2fe`.
-
-</td>
 <td width="50%" valign="top">
 
 ### 🖥️ Fateen OS — Smart POS Systems

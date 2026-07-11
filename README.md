@@ -7,9 +7,9 @@ Smart Business Solutions | Digitalizing your vision 👨🏻‍💻
 <p>
   <a href="https://fateen1.me"><img src="https://img.shields.io/badge/🌐_WEBSITE-00f2fe?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:keromenaolm@gmail.com"><img src="https://img.shields.io/badge/📩_CALL_US-1a1a2e?style=for-the-badge&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/📍_Aswan,_Egypt-black?style=flat-square" />
 </p>
 
-<img src="https://img.shields.io/badge/📍_Aswan,_Egypt-black?style=flat-square" />
 
 </div>
 

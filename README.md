@@ -80,7 +80,7 @@ End-to-end solutions for inventory, accounting, and daily operations.
 | Name | Role | Responsibility |
 |:---:|:---:|:---:|
 | **Kerollos Hany** | CEO & Founder | Full-Stack developer, lead representative |
-| **Ahmed Abdelaziz ** | CFO | Pricing and financial accounts specialist |
+| **Ahmed Abdelaziz** | CFO | Pricing and financial accounts specialist |
 | **Kero Amir** | CRM Manager | Client follow-up and sales management |
 
 <img src="https://user-images.githubusercontent.com/74038190/221857984-45b3fff2-3e1c-4a92-8b03-3a58b17fb1a4.gif" width="100%" height="4px">

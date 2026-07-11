@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/FATEEN-POS/SITE/main/images/logo.png" alt="Fateen Digital Solutions Logo" width="140" />
 
 # Fateen Digital Solutions 🚀
 

@@ -57,13 +57,12 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 
 ### 🤖· Automation & AI
 *Integrating AI tools and connecting Google Sheets to marketing platforms for self-running content pipelines.*
-### 🗂️ أنظمة إدارة الأعمال · Business Management Systems
-حلول متكاملة لإدارة المخزون والحسابات والعمليات اليومية.
+### 🖥️ · Business Management Systems
 *End-to-end solutions for inventory, accounting, and daily operations.*
 
 ---
 
-## 👥 فريق العمل · Team
+## 👥 · Team
 
 | الاسم / Name | المنصب / Role | الدور / Responsibility |
 |:---:|:---:|:---:|
@@ -73,7 +72,7 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 
 ---
 
-## ✅ عملاؤنا النشطون · Active Clients
+## ✅ · Active Clients
 
 <div align="center">
 

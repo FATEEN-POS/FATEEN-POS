@@ -55,10 +55,8 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 </tr>
 </table>
 
-### 🤖 الأتمتة والذكاء الاصطناعي · Automation & AI
-دمج أدوات الـ AI وربط Google Sheets بمنصات التسويق لإنشاء ماكينة محتوى ذاتية.
+### 🤖· Automation & AI
 *Integrating AI tools and connecting Google Sheets to marketing platforms for self-running content pipelines.*
-
 ### 🗂️ أنظمة إدارة الأعمال · Business Management Systems
 حلول متكاملة لإدارة المخزون والحسابات والعمليات اليومية.
 *End-to-end solutions for inventory, accounting, and daily operations.*

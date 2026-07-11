@@ -85,7 +85,8 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 | **Smash Zone** | Restaurant | System + pricing + menu | Aswan — next to Tulip |
 | **3al Sikh** | Restaurant | System + pricing + menu | Aswan — next to Tulip |
 | **Kofta Rica** | Restaurant | System + pricing + menu | Aswan — next to Tulip |
-| **Benzina El Ta'awon** | Gas Station | Integrated accounting system | Aswan — El Ta'meen |
+| **CPC** | Gas Station | Integrated accounting system | Aswan — El Ta'meen |
+| **Way 2 Go** | Café | System + pricing + menu + regular website | El Lewaa Dr. Tarek Gomaa |
 
 ---
 

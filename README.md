@@ -1,67 +1,81 @@
+<div align="center">
+
 # Fateen Digital Solutions | Digital Agency 🚀
-Smart Business Solutions | Digitalizing your vision 👨🏻‍💻
+### Smart Business Solutions | Digitalizing your vision 👨🏻‍💻
 
 <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Fateen+OS+%7C+Offline-First+POS+System;Smart+POS+Systems;Web+%26+Brand+Identity+Design;Dark+Elegant+Design+%26+Development" alt="Typing SVG" />
 
 <p>
   <a href="https://fateen1.me"><img src="https://img.shields.io/badge/🌐_WEBSITE-1a1a2e?style=for-the-badge&logoColor=white" /></a>
-  <a href="mailto:keromenaolm@gmail.com"><img src="https://img.shields.io/badge/📩_CALL_US-1a1a2e?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://wa.me/201000000000"><img src="https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:keromenaolm@gmail.com"><img src="https://img.shields.io/badge/📩_EMAIL-1a1a2e?style=for-the-badge&logoColor=white" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=FATEEN-POS&label=Profile%20Views&color=00f2fe&style=for-the-badge" />
+
 </div>
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🏢 · About Us
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🏢 About Us
 
 **Fateen Digital Solutions** is a digital agency based in Aswan, Egypt. We combine software engineering with UX design to build systems that boost efficiency and reflect each business's identity.
 
 > *"We build the tools your business needs — from smart POS systems to websites and standout brand identities."*
 
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/221857984-45b3fff2-3e1c-4a92-8b03-3a58b17fb1a4.gif" width="100%" height="4px">
 
----
+## ⚙️ Services
 
-## ⚙️· Services
+<details open>
+<summary><b>🖥️ Fateen OS — Smart POS Systems</b> (our flagship product)</summary>
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ Fateen OS — Smart POS Systems
-Our flagship product — an **Offline-First** management system:
+An **Offline-First** management system built for businesses that can't afford downtime:
 - Sales, menu & pricing management
 - Premium **Dark Elegant** interface
 - Works without constant internet access
 - Built with Electron.js + SQLite
 
-### 🌐 Web Development
-Professional websites tailored to each client's identity and goals.
+</details>
 
-### 🎨 Brand Identity & Design
-Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe` accents.
+<details>
+<summary><b>🌐 Web Development</b></summary>
+<br>
 
-</td>
-</tr>
-</table>
+Professional websites tailored to each client's identity and goals — fast, responsive, and built to convert visitors into customers.
 
-### 🤖· Automation & AI
-*Integrating AI tools and connecting Google Sheets to marketing platforms for self-running content pipelines.*
-### 🖥️ · Business Management Systems
-*End-to-end solutions for inventory, accounting, and daily operations.*
+</details>
 
----
+<details>
+<summary><b>🎨 Brand Identity & Design</b></summary>
+<br>
 
-## 👥 · Team
+Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe` accents, applied consistently across systems, sites, and print materials.
+
+</details>
+
+<details>
+<summary><b>🤖 Automation & AI</b></summary>
+<br>
+
+Integrating AI tools and connecting Google Sheets to marketing platforms for self-running content pipelines.
+
+</details>
+
+<details>
+<summary><b>📊 Business Management Systems</b></summary>
+<br>
+
+End-to-end solutions for inventory, accounting, and daily operations.
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/221857984-45b3fff2-3e1c-4a92-8b03-3a58b17fb1a4.gif" width="100%" height="4px">
+
+## 👥 Team
 
 | Name | Role | Responsibility |
 |:---:|:---:|:---:|
@@ -69,9 +83,9 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 | **Ahmed Abdelaziz (Abaz)** | CFO | Pricing and financial accounts specialist |
 | **Kero Amir** | CRM Manager | Client follow-up and sales management |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/221857984-45b3fff2-3e1c-4a92-8b03-3a58b17fb1a4.gif" width="100%" height="4px">
 
-## ✅ · Active Clients
+## ✅ Active Clients
 
 <div align="center">
 
@@ -88,7 +102,19 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
 | **CPC** | Gas Station | Integrated accounting system | Aswan — El Ta'meen |
 | **Way 2 Go** | Café | System + pricing + menu + regular website | El Lewaa Dr. Tarek Gomaa |
 
----
+<details>
+<summary>💬 What our clients say</summary>
+<br>
+
+> "من ساعة ما ركبنا النظام بقى كل حاجة منظمة والحسابات مبتغلطش." — **Krypton**
+
+> "الداشبورد سهل جدًا وفريقنا اتدرب عليه في يوم واحد." — **CPC**
+
+> "الموقع والنظام مع بعض خلوا صورتنا قدام العملاء أرقى بكتير." — **Way 2 Go**
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/221857984-45b3fff2-3e1c-4a92-8b03-3a58b17fb1a4.gif" width="100%" height="4px">
 
 ## 🛠️ Tech Stack
 
@@ -102,8 +128,6 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
   <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -112,13 +136,23 @@ Signature **Dark Elegant** style: deep dark backgrounds with turquoise `#00f2fe`
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FATEEN-POS&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe" />
 </div>
 
----
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<!-- Requires the GitHub Action workflow below to generate this automatically -->
+<img src="https://raw.githubusercontent.com/FATEEN-POS/FATEEN-POS/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/221857984-45b3fff2-3e1c-4a92-8b03-3a58b17fb1a4.gif" width="100%" height="4px">
 
 <div align="center">
 
-### 📩 Let's Connect
+## 📩 Let's Connect
 
 <a href="https://fateen1.me"><img src="https://img.shields.io/badge/Website-fateen1.me-00f2fe?style=for-the-badge" /></a>
+<a href="https://wa.me/201000000000"><img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:keromenaolm@gmail.com"><img src="https://img.shields.io/badge/Email-keromenaolm%40gmail.com-1a1a2e?style=for-the-badge" /></a>
 
 <sub>© 2025 Fateen Digital Solutions · Aswan, Egypt</sub>
